@@ -1,5 +1,5 @@
 
-  # ben
+  # Readme Generator
   
   ![badge](https://img.shields.io/badge/license-Appache 2.0-blue)
 
@@ -14,34 +14,30 @@
   
   ## [Description](#table-of-contents)
 
-  ben
+  Professional Readme Generator using node and javascript
 
   ## [Installation](#table-of-contents)
 
-  ben
+  none
 
   ## [Usage](#table-of-contents)
 
-  ben
-  
-  For more information on how to add screenshots for examples, visit the following website:
-  
-  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
+  In console run the cmd "node index.js"
   
   Appache 2.0
 
   ## [Contributing](#table-of-contents)
   
-  ben
+  none
 
   ## [Tests](#table-of-contents)
 
-  ben
+  none
 
   ## [Questions](#table-of-contents)
 
   Please contact me using the following links:
 
-  [GitHub](https://github.com/ben)
+  [GitHub](https://github.com/benkawalec)
 
-  [Email: ben](mailto:ben)
+  [Email: test@gmail.com](mailto:test@gmail.com)
